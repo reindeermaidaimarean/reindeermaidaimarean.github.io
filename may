@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<style>
+.center {
+  text-align: center;
+}
+</style>
+  
+</head>
+<body>
+<div class="center">
+  <h2>Siraprapa Sunthiwas</h2>
+  <img src="https://www.instagram.com/p/B7P1frTnIVf/" alt="may" width="500" height="600">
+  <h3>My Profile</h3>
+  <p>I'm a sopomor Major : MIS Minor : Lo</p>
+  <p>Thammasat University</p>
+  </div>
+  <button type="button" class="btn btn-primary">Primary</button>
+  
+
+</body>
+</html>
