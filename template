@@ -48,7 +48,7 @@
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/60122720?s=400&u=d9f09585bb33f62805991ed219cb44c285a67d34&v=4" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Sisun May</h4>
-      <p class="card-text">Do you Wanna know me more ?</p> click below <br>
+      <p class="card-text">Do you Wanna know me more ?</p>
       <a href="#" class="btn btn-primary">See Profile</a>
     </div>
   </div>
